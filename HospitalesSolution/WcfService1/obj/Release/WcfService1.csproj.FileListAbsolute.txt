@@ -1,0 +1,6 @@
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Bases II\PROYECTO HOSPITAL BASES\HospitalesSolution\WcfService1\bin\WcfService1.dll.config
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Bases II\PROYECTO HOSPITAL BASES\HospitalesSolution\WcfService1\bin\WcfService1.dll
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Bases II\PROYECTO HOSPITAL BASES\HospitalesSolution\WcfService1\bin\WcfService1.pdb
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Bases II\PROYECTO HOSPITAL BASES\HospitalesSolution\WcfService1\obj\Release\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Bases II\PROYECTO HOSPITAL BASES\HospitalesSolution\WcfService1\obj\Release\WcfService1.dll
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Bases II\PROYECTO HOSPITAL BASES\HospitalesSolution\WcfService1\obj\Release\WcfService1.pdb

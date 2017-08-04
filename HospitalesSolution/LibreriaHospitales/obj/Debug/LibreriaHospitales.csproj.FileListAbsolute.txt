@@ -1,0 +1,34 @@
+C:\Users\Victor\Desktop\HospitalesSolution\LibreriaHospitales\bin\Debug\LibreriaHospitales.dll
+C:\Users\Victor\Desktop\HospitalesSolution\LibreriaHospitales\bin\Debug\LibreriaHospitales.pdb
+C:\Users\Victor\Desktop\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.dll
+C:\Users\Victor\Desktop\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.pdb
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.pdb
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\LibreriaHospitales\bin\Debug\LibreriaHospitales.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\LibreriaHospitales\bin\Debug\LibreriaHospitales.pdb
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\LibreriaHospitales\bin\Debug\LibreriaHospitales.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\LibreriaHospitales\bin\Debug\LibreriaHospitales.pdb
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.pdb
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.csprojResolveAssemblyReference.cache
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.csprojResolveAssemblyReference.cache
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.pdb
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\LibreriaHospitales\bin\Debug\LibreriaHospitales.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\LibreriaHospitales\bin\Debug\LibreriaHospitales.pdb
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\LibreriaHospitales\bin\Debug\LibreriaHospitales.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\LibreriaHospitales\bin\Debug\LibreriaHospitales.pdb
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.pdb
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\LibreriaHospitales\bin\Debug\LibreriaHospitales.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\LibreriaHospitales\bin\Debug\LibreriaHospitales.pdb
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.csprojResolveAssemblyReference.cache
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.pdb
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Bases II\PROYECTO HOSPITAL BASES\HospitalesSolution\LibreriaHospitales\bin\Debug\LibreriaHospitales.dll
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Bases II\PROYECTO HOSPITAL BASES\HospitalesSolution\LibreriaHospitales\bin\Debug\LibreriaHospitales.pdb
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Bases II\PROYECTO HOSPITAL BASES\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.csprojResolveAssemblyReference.cache
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Bases II\PROYECTO HOSPITAL BASES\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.dll
+C:\Users\Claret\Documents\UNIVERSIDAD\III\Bases II\PROYECTO HOSPITAL BASES\HospitalesSolution\LibreriaHospitales\obj\Debug\LibreriaHospitales.pdb

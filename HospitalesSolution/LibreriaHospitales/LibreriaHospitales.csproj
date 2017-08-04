@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5CE1B5EF-BAA7-4C0D-BD82-0DA05F7A0E2D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LibreriaHospitales</RootNamespace>
+    <AssemblyName>LibreriaHospitales</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Business\AdmisionBusiness.cs" />
+    <Compile Include="Business\DiagnosticoBusiness.cs" />
+    <Compile Include="Business\MedicoBusiness.cs" />
+    <Compile Include="DataAccess\AdmisionData.cs" />
+    <Compile Include="DataAccess\CitaData.cs" />
+    <Compile Include="DataAccess\DataSet.cs" />
+    <Compile Include="DataAccess\DiagnosticoData.cs" />
+    <Compile Include="DataAccess\ExamenData.cs" />
+    <Compile Include="DataAccess\HospitalData.cs" />
+    <Compile Include="DataAccess\MedicoData.cs" />
+    <Compile Include="DataAccess\PacienteData.cs" />
+    <Compile Include="Domain\Admision.cs" />
+    <Compile Include="Domain\Cita.cs" />
+    <Compile Include="Domain\Diagnostico.cs" />
+    <Compile Include="Domain\Examen.cs" />
+    <Compile Include="Domain\Hora.cs" />
+    <Compile Include="Domain\Hospital.cs" />
+    <Compile Include="Domain\Internamiento.cs" />
+    <Compile Include="Domain\Medico.cs" />
+    <Compile Include="Domain\PACIENTE.cs" />
+    <Compile Include="Domain\Reporte.cs" />
+    <Compile Include="Domain\Sala.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

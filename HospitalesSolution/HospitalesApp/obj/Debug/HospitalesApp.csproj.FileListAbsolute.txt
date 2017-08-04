@@ -1,0 +1,486 @@
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\ApplicationInsights.config
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\roslyn\csc.exe
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\roslyn\vbc.exe
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\HospitalesApp.dll.config
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\HospitalesApp.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\HospitalesApp.pdb
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Antlr3.Runtime.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\EntityFramework.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\LibreriaHospitales.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Web.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Newtonsoft.Json.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Owin.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\System.Web.Optimization.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\System.Web.Providers.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\WebGrease.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\LibreriaHospitales.pdb
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Web.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\System.Web.Optimization.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Antlr3.Runtime.pdb
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Newtonsoft.Json.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\EntityFramework.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\System.Web.Providers.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.dll
+C:\Users\Victor\Desktop\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.pdb
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\ApplicationInsights.config
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\csc.exe
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\vbc.exe
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\HospitalesApp.dll.config
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\HospitalesApp.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\HospitalesApp.pdb
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Antlr3.Runtime.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\EntityFramework.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\LibreriaHospitales.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Web.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Newtonsoft.Json.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Owin.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\System.Web.Optimization.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\System.Web.Providers.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\WebGrease.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\LibreriaHospitales.pdb
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Web.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\System.Web.Optimization.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Antlr3.Runtime.pdb
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Newtonsoft.Json.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\EntityFramework.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\System.Web.Providers.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.dll
+C:\Users\Manuel\Documents\GitHub\ProyectoBases\ProyectoBases\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.pdb
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\ApplicationInsights.config
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\roslyn\csc.exe
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\roslyn\vbc.exe
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\HospitalesApp.dll.config
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\HospitalesApp.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\HospitalesApp.pdb
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Antlr3.Runtime.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\EntityFramework.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\LibreriaHospitales.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Web.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Newtonsoft.Json.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Owin.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\System.Web.Optimization.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\System.Web.Providers.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\WebGrease.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\LibreriaHospitales.pdb
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Web.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\System.Web.Optimization.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Antlr3.Runtime.pdb
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Newtonsoft.Json.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\EntityFramework.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\System.Web.Providers.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.dll
+C:\Users\Manuel\Desktop\Universidad de Costa Rica\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.pdb
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.csprojResolveAssemblyReference.cache
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.pdb
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\ApplicationInsights.config
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\roslyn\csc.exe
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\roslyn\vbc.exe
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\HospitalesApp.dll.config
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\HospitalesApp.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\HospitalesApp.pdb
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Antlr3.Runtime.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\EntityFramework.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\LibreriaHospitales.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Web.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Newtonsoft.Json.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Owin.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\System.Web.Optimization.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\System.Web.Providers.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\WebGrease.dll
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\LibreriaHospitales.pdb
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Web.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\System.Web.Optimization.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Antlr3.Runtime.pdb
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Newtonsoft.Json.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\EntityFramework.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\System.Web.Providers.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Claret\Desktop\Nueva carpeta\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\ApplicationInsights.config
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\csc.exe
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\vbc.exe
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\VBCSCompiler.exe
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\HospitalesApp.dll.config
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\HospitalesApp.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\HospitalesApp.pdb
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Antlr3.Runtime.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\AspNet.ScriptManager.jQuery.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\EntityFramework.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\EntityFramework.SqlServer.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\LibreriaHospitales.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Web.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.WindowsServer.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.ApplicationInsights.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Newtonsoft.Json.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Owin.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\System.Web.Optimization.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\System.Web.Providers.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\WebGrease.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\LibreriaHospitales.pdb
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Web.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.WindowsServer.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.ApplicationInsights.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\System.Web.Optimization.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Antlr3.Runtime.pdb
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Newtonsoft.Json.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\EntityFramework.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\EntityFramework.SqlServer.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\System.Web.Providers.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.csprojResolveAssemblyReference.cache
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.dll
+D:\Escritorio\U\Bases\ProyectoBases\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.pdb
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\ApplicationInsights.config
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\roslyn\csc.exe
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\roslyn\vbc.exe
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\HospitalesApp.dll.config
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\HospitalesApp.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\HospitalesApp.pdb
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Antlr3.Runtime.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\EntityFramework.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\LibreriaHospitales.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Web.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Newtonsoft.Json.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Owin.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\System.Web.Optimization.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\System.Web.Providers.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\WebGrease.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\LibreriaHospitales.pdb
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.Web.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\System.Web.Optimization.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Antlr3.Runtime.pdb
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Newtonsoft.Json.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\EntityFramework.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\System.Web.Providers.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.csprojResolveAssemblyReference.cache
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.dll
+C:\Users\Claret\Documents\PROYECTO HOSPITAL BASES\HospitalesSolution\HospitalesApp\obj\Debug\HospitalesApp.pdb
